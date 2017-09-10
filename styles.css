@@ -1,0 +1,14 @@
+body {
+  background-color: red;
+  color: white;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+P {
+  color: blue;
+}
+
+span {
+  color: green;
+}
