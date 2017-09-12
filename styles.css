@@ -1,14 +1,28 @@
 body {
-  background-color: red;
+  background: purple;
   color: white;
   font-size: 20px;
   font-weight: bold;
+  font-family: fantasy;
+}
+
+h1 {
+  color: black;
+}
+
+h1:hover  {
+  color: white;
 }
 
 P {
-  color: blue;
+  color: grey;
 }
 
 span {
   color: green;
+}
+
+header img {
+  width: 200px;
+  height: 30px;
 }
